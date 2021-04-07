@@ -6,7 +6,7 @@ body {
   font-size: 16px;
   line-height: 32px;
   color: #f2f2f2;
-  background-color: #141530;
+  background-color: #A52A2A;
   background-image: url("img/pattern-lines-hero.svg");
   background-position: center;
 }
@@ -39,7 +39,7 @@ body {
 .page-header a:hover,
 .page-footer a:focus,
 .page-footer a:hover {
-  color: #f9dd79;
+  color: #afdd55;
 }
 
 .page-header a::after,
@@ -50,8 +50,8 @@ body {
   left: 0;
   width: 0;
   height: 2px;
-  background-color: #f9dd79;
-  transition: width 200ms;
+  background-color: #9a57a8;
+  transition: width 350ms;
 }
 
 .page-header a:hover::after,
@@ -122,18 +122,18 @@ body {
   height: 200px;
   width: 100%;
   bottom: 0;
-  background-color: #0b0c23;
+  background-color: #FF4500;
   background-image: url("img/bg-tags.svg");
   background-position: center;
   background-repeat: no-repeat;
-  border-top: 2px solid #5053a8;
+  border-top: 2px solid #00FF00;
 }
 
 .heading {
   z-index: 1;
   order: 2;
   margin: 0 0 0 -10px;
-  width: 815px;
+  width: 85px;
   font-size: 96px;
   line-height: 112px;
   font-weight: 500;
@@ -147,12 +147,12 @@ body {
   padding-bottom: 16px;
   font-size: 32px;
   line-height: 48px;
-  color: #f9dd79;
+  color: #7B68EE;
 }
 
 .intro,
 .portfolio {
-  background-color: #141530;
+  background-color: #A52A2A;
   background-image: url("img/pattern-lines.svg");
   background-repeat: repeat-y;
   background-position-x: center;
